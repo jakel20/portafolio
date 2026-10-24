@@ -76,6 +76,34 @@ apps = [
                    "de clasificación y observa la curva sigmoide y la importancia de cada variable.",
     "url": "https://sesion11.streamlit.app/",
   },
+  {
+    "titulo": "Programación Orientada a Objetos",
+    "imagen": "sesion15.png",
+    "descripcion": "Carga un objeto FlujoModelo (Estandarizador + RegresionLineal), explora sus atributos "
+                   "y métodos, y prueba paso a paso cómo predice el consumo energético.",
+    "url": "https://sesion-15.streamlit.app/",
+  },
+  {
+    "titulo": "NumPy con Sensores",
+    "imagen": "sesion15-2.png",
+    "descripcion": "Compara el rendimiento de un ciclo for frente a NumPy y aplica funciones "
+                   "vectorizadas (media, máximo, desviación, filtros) sobre lecturas de sensores.",
+    "url": "https://sesi-n-15.streamlit.app/",
+  },
+  {
+    "titulo": "Estimador de Vivienda (API)",
+    "imagen": "sesion16.png",
+    "descripcion": "Estima el valor de una vivienda en California con una regresión lineal entrenada "
+                   "por descenso de gradiente, desplegada como API con documentación en /docs.",
+    "url": "https://sesion-16.vercel.app/",
+  },
+  {
+    "titulo": "Predicción de Lluvia (API)",
+    "imagen": "sesion16-2.png",
+    "descripcion": "Calcula la probabilidad de lluvia para mañana a partir de temperatura, humedad y "
+                   "viento con regresión logística, desplegada como API con métricas de evaluación.",
+    "url": "https://sesion-16-2.vercel.app/",
+  },
 ]
 
 # ------------------------------------------------------------
